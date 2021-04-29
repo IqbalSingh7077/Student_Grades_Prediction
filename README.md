@@ -1,7 +1,7 @@
 # **Student_Grades_Prediction**
 
 ## **Dataset**
-The following projects data set is taken from Kaggle, below is the link to the dataset /n
+The following projects data set is taken from Kaggle, below is the link to the dataset/n
 https://www.kaggle.com/dipam7/student-grade-prediction
 
 ## **Feature selection**
