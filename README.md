@@ -1,7 +1,8 @@
 # **Student_Grades_Prediction**
 
 ## **Dataset**
-The following projects data set is taken from Kaggle, below is the link to the dataset\ https://www.kaggle.com/dipam7/student-grade-prediction
+The following projects data set is taken from Kaggle, below is the link to the dataset \
+https://www.kaggle.com/dipam7/student-grade-prediction
 
 ## **Feature selection**
 I used 2 feature selection methods here-
